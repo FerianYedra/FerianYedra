@@ -1,5 +1,22 @@
-### Hi there
-I am testing the profile README.md
+## Hi there
+<details><summmary>About Me</summmary>
+  <p>
+    ### About me and the languages I use
+    I am a mechatronics engineering student in Mexico City. I'm almost finished with my degree and throughout it I've learned and participated in many projects of different disciplines   related with programming including:
+  - Robotics systems with MATLAB, Simulink, LABView and Arduino.
+  - Control systems with MATLAB and Simulink.
+  - Image processing with Python.
+  - Web developement with HTML, CSS and JavaScript.
+  - Database developement with MySQL.
+  - Learned to programm in C and Java.
+  </p>
+</details>
+<details><summary>My Projects</summary>
+  <p>
+    ###About the projects I have featured
+    The projects I have featured are some of the most fun projects I have worked on and I'm proudest of, however I've worked on other projects.
+  </p>
+</details>
 
 <!--
 **FerianYedra/FerianYedra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
